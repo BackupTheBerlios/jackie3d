@@ -1,0 +1,7 @@
+jackie.lo: /home/david/jackie/jackie/src/jackie.cpp \
+  /home/david/jackie/jackie/src/jackie.hpp \
+  /home/david/jackie/jackie/src/port/basicdatatypes.hpp
+
+/home/david/jackie/jackie/src/jackie.hpp:
+
+/home/david/jackie/jackie/src/port/basicdatatypes.hpp:

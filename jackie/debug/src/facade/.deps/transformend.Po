@@ -1,0 +1,26 @@
+transformend.o transformend.o:  \
+ /home/david/jackie/jackie/src/facade/transformend.cpp \
+  /home/david/jackie/jackie/src/facade/jackiefacadedelegate.hpp \
+  /home/david/jackie/jackie/src/jackiefacade.hpp \
+  /home/david/jackie/jackie/src/jackieint.hpp /usr/include/stdint.h \
+  /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/gnu/stubs.h /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h
+
+/home/david/jackie/jackie/src/facade/jackiefacadedelegate.hpp:
+
+/home/david/jackie/jackie/src/jackiefacade.hpp:
+
+/home/david/jackie/jackie/src/jackieint.hpp:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/bits/wordsize.h:

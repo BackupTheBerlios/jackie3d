@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="3" >
+  <Doc0 NumberOfViews="1" URL="file:/home/david/jackie/jackie/src/jackiefacade.hpp" >
+   <View0 line="73" Type="???" >
+    <AdditionalSettings Top="2" Width="767" Attach="1" Height="411" Left="2" MinMaxMode="0" />
+   </View0>
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:/home/david/jackie/jackie/src/jackieint.hpp" >
+   <View0 line="47" Type="???" >
+    <AdditionalSettings Top="2" Width="767" Attach="1" Height="411" Left="2" MinMaxMode="0" />
+   </View0>
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:/home/david/jackie/jackie/src/facade/jackiefacadedelegate.hpp" >
+   <View0 line="121" Type="???" >
+    <AdditionalSettings Top="2" Width="767" Attach="1" Height="411" Left="2" MinMaxMode="0" />
+   </View0>
+  </Doc2>
+ </DocsAndViews>
+ <pluginList>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevsubversion>
+   <subversion recurseresolve="1" recurserelocate="1" recursemerge="1" recursecommit="1" base="" recursepropget="1" recurseswitch="1" recurseupdate="1" recursepropset="1" recursediff="1" recurserevert="1" forcemove="1" recursecheckout="1" forceremove="1" recurseadd="1" recurseproplist="1" forcemerge="1" />
+  </kdevsubversion>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+  </kdevvalgrind>
+  <kdevdebugger>
+   <breakpointList/>
+  </kdevdebugger>
+ </pluginList>
+</KDevPrjSession>
